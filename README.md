@@ -16,4 +16,4 @@ pipenv sync
 [Swagger Documentation](https://blog-api-django3.herokuapp.com/swagger/)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
